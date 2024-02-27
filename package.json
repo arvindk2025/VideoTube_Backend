@@ -1,0 +1,11 @@
+{
+  "name": "videotube",
+  "version": "1.0.0",
+  "description": "videoTube",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon src/index.js"
+  },
+  "author": "ARVIND KUMAR",
+  "license": "ISC"
+}
